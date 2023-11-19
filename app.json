@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "smarthandglove",
-    "slug": "smarthandglove"
+    "slug": "smarthandglove",
+    "android": {
+      "package": "com.anonymous.smarthandglove"
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "dfa34560-d4b2-4f69-b1c8-315981e4b035"
+      }
+    }
   }
 }
